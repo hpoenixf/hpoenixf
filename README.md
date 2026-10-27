@@ -37,15 +37,15 @@ v0.1–v0.5 已公开，覆盖工具循环、Skills / MCP、Hooks、受限分工
 | [ETF Agent · Engineering Notes](https://hpoenixf.github.io/eff-agent-article/) | 从真实开发与故障出发，讲解模块机制、架构取舍与研发方法。 |
 | [个人博客](https://hpoenixf.com/) | 前端工程、金融科技、AI 辅助研发及长期实践记录。 |
 
-## 精选五篇 · Five different perspectives
+## 精选五篇 · 从事实到系统，再到长期演进
 
-| 领域 | 文章 | 推荐从这里读起的原因 |
+| 方向 | 代表作 | 这篇重点回答什么 |
 | --- | --- | --- |
-| **设计系统与体验治理** | [从组件库到用户体验一致性保障体系](https://hpoenixf.com/blog/design-quality-assurance) | 把设计规范、组件、工具约束与线上检查接成一条落地链路。 |
-| **前端交付与测试** | [一天上线一个高不确定性需求：状态矩阵 + E2E 让前端交付不返工](https://hpoenixf.com/blog/requirement-with-ai) | 从需求澄清到异步状态和端到端检查，复盘具体的交付过程。 |
-| **金融数据与计算** | [金融 AI 最危险的“专业感”：数据是真的，数字却算错了](https://hpoenixf.github.io/eff-agent-article/articles/031-fintech-data-time-and-reproducible-numbers) | 用真实误读与金额反例，区分数据来源、计算规则和模型解释。 |
-| **AI 辅助研发方法** | [写了 Spec，为什么还不能说做完了？](https://hpoenixf.github.io/eff-agent-article/articles/026-agent-spec-evidence-workflow) | 让需求、实现与证据能够相互核对，并保留可复用的工程流程。 |
-| **Agent 数据与上下文** | [工具查到的数据，为什么不一定要给大模型看？](https://hpoenixf.github.io/eff-agent-article/articles/tool-results-outside-model-context) | 将原始结果与模型工作视图分开，讲清少放上下文后如何精确回读。 |
+| **金融可信证据链** | [金融 Agent 的可信证据链：从原始数据到最终结论，如何守住事实的来路？](https://hpoenixf.github.io/eff-agent-article/articles/financial-agent-trustworthy-evidence-chain) | 原始数据、派生计算与最终结论如何保持可核对的来源关系。 |
+| **系统架构全景** | [从一次提问到答案可见：ETF Agent 六层调用全景 · V3](https://hpoenixf.github.io/eff-agent-article/articles/017-prompt-to-answer-six-layer-panorama-v3) | 一次请求如何经过六个交接环节，走向实际研究、交付与可见答案。 |
+| **异步后台研究** | [想聊就聊，没收 AI 对话框的中止按钮！一天让你的 Agent 支持异步后台深度研究](https://hpoenixf.github.io/eff-agent-article/articles/agent-background-research-collaborative-experience) | 前台对话继续响应时，后台研究如何推进、接收变化并交付成果。 |
+| **Subagent 协作** | [当两个 Agent 开始直接对话：有界多空协作的 Runtime 设计](https://hpoenixf.github.io/eff-agent-article/articles/bounded-bull-bear-peer-dialogue) | 把直接质询、回复、撤回和恢复接入真实协作，同时保留资源与来源边界。 |
+| **工程原则** | [代码越来越便宜，为什么系统却越来越难升级？](https://hpoenixf.github.io/eff-agent-article/articles/code-cheaper-systems-harder-to-evolve) | 当新增能力越来越容易，如何控制长期维护、替换与退出成本。 |
 
 [更多工程文章 →](https://hpoenixf.github.io/eff-agent-article/catalog)
 
