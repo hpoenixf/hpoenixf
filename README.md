@@ -45,7 +45,7 @@
 | **架构判断** | [一份报告背后的九个架构判断](https://hpoenixf.com/eff-agent-article/articles/one-report-nine-architecture-judgments) | 沿一份文档比较报告，讨论职责归属、真实效果、局部失败与持续演进。 |
 | **金融系统全景** | [金融 Agent 全景：连接研究、业务与责任的系统架构](https://hpoenixf.com/eff-agent-article/articles/financial-agent-system-panorama) | 研究、业务与证据如何衔接，怎样区分现有能力、机构目标与独立授权。 |
 | **Agent 研发套件** | [Agent Engineering Suite：让 Agent 从需求一路接到发布](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite) | 用一个合成案例串起 Spec、架构、审查、History、文档与 Roadmap，并说明安装方式及能力边界。 |
-| **六层调用全景** | [从一次提问到答案可见：ETF Agent 六层调用全景 · V3](https://hpoenixf.com/eff-agent-article/articles/017-prompt-to-answer-six-layer-panorama-v3) | 一次请求如何经过六个交接环节，走向实际研究、交付与可见答案。 |
+| **六层调用全景** | [从一次提问到答案可见：ETF Agent 六层调用全景](https://hpoenixf.com/eff-agent-article/articles/017-prompt-to-answer-six-layer-panorama-v3) | 一次请求如何经过六个交接环节，走向实际研究、交付与可见答案。 |
 | **交互与设计系统** | [从组件库到业务设计系统：一个跨六国钱包产品的一致性治理实践](https://hpoenixf.com/blog/design-quality-assurance) | 如何把 Figma 检测、业务设计系统、渐进迁移与线上度量接起来，推动设计、研发和产品共同改善一致性。 |
 | **Subagent 协作** | [当两个 Agent 开始直接对话：有界多空协作的 Runtime 设计](https://hpoenixf.com/eff-agent-article/articles/bounded-bull-bear-peer-dialogue) | 把直接质询、回复、撤回和恢复接入真实协作，同时保留资源与来源边界。 |
 
