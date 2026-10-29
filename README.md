@@ -15,7 +15,7 @@
 
 ## 关于我
 
-我是 hpoenixf，拥有 **10 年开发经验、5 年金融业务系统研发经验**。全栈偏前端，专注金融科技与 AI Agent 工程实践。 2016 年起从事软件研发，具有前端工程背景，曾就职于阿里、腾讯及外企。
+我是 hpoenixf，拥有 **10 年开发经验、5 年金融业务系统研发经验**。全栈偏前端，专注金融科技与 AI Agent 工程实践。曾就职于阿里、腾讯及外企。
 
 - **从界面到交付：** 关注设计系统、复杂交互、状态管理与端到端质量。
 - **从模型到系统：** 关注工具、上下文、记忆、恢复及交付怎样协同工作。
@@ -47,14 +47,11 @@
 | **Agent 研发套件** | [Agent Engineering Suite：让 Agent 从需求一路接到发布](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite) | 用一个合成案例串起 Spec、架构、审查、History、文档与 Roadmap，并说明安装方式及能力边界。 |
 | **六层调用全景** | [从一次提问到答案可见：ETF Agent 六层调用全景](https://hpoenixf.com/eff-agent-article/articles/017-prompt-to-answer-six-layer-panorama-v3) | 一次请求如何经过六个交接环节，走向实际研究、交付与可见答案。 |
 | **交互与设计系统** | [从组件库到业务设计系统：一个跨六国钱包产品的一致性治理实践](https://hpoenixf.com/blog/design-quality-assurance) | 如何把 Figma 检测、业务设计系统、渐进迁移与线上度量接起来，推动设计、研发和产品共同改善一致性。 |
-| **Subagent 协作** | [当两个 Agent 开始直接对话：有界多空协作的 Runtime 设计](https://hpoenixf.com/eff-agent-article/articles/bounded-bull-bear-peer-dialogue) | 把直接质询、回复、撤回和恢复接入真实协作，同时保留资源与来源边界。 |
 
 [更多工程文章 →](https://hpoenixf.com/eff-agent-article/catalog)
 
 <details>
 <summary>技术与工程背景</summary>
-
-TypeScript · JavaScript · React · Next.js · Node.js
 
 前端工程与交互是我的技术积累之一；现在也在持续探索 Agent 从开发、验证到交付的完整链路。
 
