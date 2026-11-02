@@ -15,7 +15,7 @@
 
 ## 关于我
 
-我是 hpoenixf，拥有 **10 年开发经验、5 年金融业务系统研发经验**。全栈偏前端，专注金融科技与 AI Agent 工程实践。曾就职于阿里、腾讯及外企。
+我是 hpoenixf，拥有 **10 年开发经验、5 年金融业务系统研发经验**。专注金融科技与 AI Agent 工程实践。曾就职于阿里、腾讯及外企。
 
 - **从界面到交付：** 关注设计系统、复杂交互、状态管理与端到端质量。
 - **从模型到系统：** 关注工具、上下文、记忆、恢复及交付怎样协同工作。
@@ -27,9 +27,9 @@
 
 从一份能打开、能核对来源的报告开始，逐版构建研究 Agent。保留可运行代码、Spec、失败与修复记录，让文章中的机制有可以动手验证的入口。
 
-**[运行最新稳定 main](https://github.com/hpoenixf/open-etf-agent)** · [查看各阶段](https://github.com/hpoenixf/open-etf-agent/branches) · [演进证据](https://github.com/hpoenixf/open-etf-agent/blob/main/docs/evolution/evidence-index.md)
+**[运行最新稳定 main](https://github.com/hpoenixf/open-etf-agent)** 
 
-已公开版本覆盖工具循环、Skills / MCP、Hooks、受限分工、结果外置、压缩、显式 Memory，以及报告与附件阅读交付。原创代码采用 MIT。当前入门示例使用合成文档；程序验证与真实模型验收分别记录。它仍在逐版开发中，不是生产金融服务或投资建议。
+已公开版本覆盖工具循环、Skills / MCP、Hooks、受限分工、结果外置、压缩、显式 Memory，以及报告与附件阅读交付。原创代码采用 MIT。
 
 | 项目与文集 | 可以从这里获得什么 |
 | --- | --- |
