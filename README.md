@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>全栈偏前端 · Agent 系统 · 金融科技</strong><br />
+  <strong>全栈研发 · Agent 系统 · 金融科技</strong><br />
   把复杂需求做成可运行的产品，把真实实践写成可复用的经验。
 </p>
 
