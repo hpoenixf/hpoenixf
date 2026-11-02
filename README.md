@@ -25,15 +25,14 @@
 
 ### [Open ETF Agent](https://github.com/hpoenixf/open-etf-agent)
 
-从一份能打开、能核对来源的报告开始，逐版构建研究 Agent。保留可运行代码、Spec、失败与修复记录，让文章中的机制有可以动手验证的入口。
+从一份能打开、能核对来源的报告开始，逐版构建研究 Agent。
 
 **[运行最新稳定 main](https://github.com/hpoenixf/open-etf-agent)** 
 
-已公开版本覆盖工具循环、Skills / MCP、Hooks、受限分工、结果外置、压缩、显式 Memory，以及报告与附件阅读交付。原创代码采用 MIT。
 
 | 项目与文集 | 可以从这里获得什么 |
 | --- | --- |
-| [Agent Engineering Suite](https://github.com/hpoenixf/agent-engineering-suite) | 从需求、Spec、架构审查到 History、文档、成熟度与 Roadmap 的研发套件；支持 Skill / Codex 插件、单模块或完整安装。[阅读完整介绍](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite)。 |
+| [Agent Engineering Suite](https://github.com/hpoenixf/agent-engineering-suite) | 从需求、Spec、架构审查到 History、文档、成熟度与 Roadmap 的研发套件。[阅读完整介绍](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite)。 |
 | [Agent Harness Lab](https://github.com/hpoenixf/agent-harness-lab) | 可运行的教学示例，从最小工具循环走向研究工作台。 |
 | [ETF Agent · Engineering Notes](https://hpoenixf.com/eff-agent-article/) | 从真实开发与故障出发，讲解模块机制、架构取舍与研发方法。 |
 | [个人博客](https://hpoenixf.com/) | 前端工程、金融科技、AI 辅助研发及长期实践记录。 |
@@ -50,12 +49,7 @@
 
 [更多工程文章 →](https://hpoenixf.com/eff-agent-article/catalog)
 
-<details>
-<summary>技术与工程背景</summary>
 
-前端工程与交互是我的技术积累之一；现在也在持续探索 Agent 从开发、验证到交付的完整链路。
-
-</details>
 
 ## 交流
 
