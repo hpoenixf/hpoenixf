@@ -17,15 +17,9 @@
 
 ## 正在构建
 
-### [Open ETF Agent](https://github.com/hpoenixf/open-etf-agent)
-
-从一份能打开、能核对来源的报告开始，逐版构建研究 Agent。
-
-**[运行最新稳定 main](https://github.com/hpoenixf/open-etf-agent)** 
-
-
 | 项目与文集 | 可以从这里获得什么 |
 | --- | --- |
+| [Open ETF Agent](https://github.com/hpoenixf/open-etf-agent) | 从一份能打开、能核对来源的报告开始，逐版构建研究 Agent。 |
 | [Agent Engineering Suite](https://github.com/hpoenixf/agent-engineering-suite) | 从需求、Spec、架构审查到 History、文档、成熟度与 Roadmap 的研发套件。[阅读完整介绍](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite)。 |
 | [ETF Agent · Engineering Notes](https://hpoenixf.com/eff-agent-article/) | 从真实开发与故障出发，讲解模块机制、架构取舍与研发方法。 |
 | [个人博客](https://hpoenixf.com/) | 前端工程、金融科技、AI 辅助研发及长期实践记录。 |
