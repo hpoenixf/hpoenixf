@@ -7,12 +7,6 @@
   把复杂需求做成可运行的产品，把真实实践写成可复用的经验。
 </p>
 
-<p align="center">
-  <a href="https://github.com/hpoenixf/open-etf-agent">Open ETF Agent</a> ·
-  <a href="https://hpoenixf.com/eff-agent-article/">Agent 工程文集</a> ·
-  <a href="https://hpoenixf.com/">个人博客</a>
-</p>
-
 ## 关于我
 
 我是 hpoenixf，拥有 **10 年开发经验、5 年金融业务系统研发经验**。专注金融科技与 AI Agent 工程实践。曾就职于阿里、腾讯及外企。
@@ -33,26 +27,7 @@
 | 项目与文集 | 可以从这里获得什么 |
 | --- | --- |
 | [Agent Engineering Suite](https://github.com/hpoenixf/agent-engineering-suite) | 从需求、Spec、架构审查到 History、文档、成熟度与 Roadmap 的研发套件。[阅读完整介绍](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite)。 |
-| [Agent Harness Lab](https://github.com/hpoenixf/agent-harness-lab) | 可运行的教学示例，从最小工具循环走向研究工作台。 |
 | [ETF Agent · Engineering Notes](https://hpoenixf.com/eff-agent-article/) | 从真实开发与故障出发，讲解模块机制、架构取舍与研发方法。 |
 | [个人博客](https://hpoenixf.com/) | 前端工程、金融科技、AI 辅助研发及长期实践记录。 |
 
-## 精选六篇 · 架构判断、金融系统与研发实践
 
-| 方向 | 代表作 | 这篇重点回答什么 |
-| --- | --- | --- |
-| **架构判断** | [一份报告背后的九个架构判断](https://hpoenixf.com/eff-agent-article/articles/one-report-nine-architecture-judgments) | 沿一份文档比较报告，讨论职责归属、真实效果、局部失败与持续演进。 |
-| **金融系统全景** | [金融 Agent 全景：连接研究、业务与责任的系统架构](https://hpoenixf.com/eff-agent-article/articles/financial-agent-system-panorama) | 研究、业务与证据如何衔接，怎样区分现有能力、机构目标与独立授权。 |
-| **Agent 研发套件** | [Agent Engineering Suite：让 Agent 从需求一路接到发布](https://hpoenixf.com/eff-agent-article/articles/agent-engineering-suite) | 用一个合成案例串起 Spec、架构、审查、History、文档与 Roadmap，并说明安装方式及能力边界。 |
-| **六层调用全景** | [从一次提问到答案可见：ETF Agent 六层调用全景](https://hpoenixf.com/eff-agent-article/articles/017-prompt-to-answer-six-layer-panorama-v3) | 一次请求如何经过六个交接环节，走向实际研究、交付与可见答案。 |
-| **交互与设计系统** | [从组件库到业务设计系统：一个跨六国钱包产品的一致性治理实践](https://hpoenixf.com/blog/design-quality-assurance) | 如何把 Figma 检测、业务设计系统、渐进迁移与线上度量接起来，推动设计、研发和产品共同改善一致性。 |
-
-[更多工程文章 →](https://hpoenixf.com/eff-agent-article/catalog)
-
-
-
-## 交流
-
-欢迎交流全栈研发、Agent 系统、金融科技与技术写作。
-
-[个人博客](https://hpoenixf.com/) · [工程文集](https://hpoenixf.com/eff-agent-article/) · [Email](mailto:hpoenixf@foxmail.com)
